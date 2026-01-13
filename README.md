@@ -16,7 +16,10 @@ The project aligns with **Sustainable Development Goal (SDG) 12: Responsible Con
 - **Software:** Arduino IDE (embedded C/C++).
 - **Methodology:** Experimental Developmental Design using the Prototyping Model.
 - **Evaluation:** ISO/IEC 25010:2011 (Functionality, Performance, Usability, Reliability, Portability).
+## 3D Prototype
+The physical enclosure of the **PREDICTS** device was modeled using **Tinkercad** to visualize portability and component placement.
 
+[![3D Prototype Preview](prototype.png)](https://www.tinkercad.com/things/7j7sD0GyOff/edit)
 ## Objectives
 1. Measure and display soil nutrients in real-time.
 2. Provide intelligent crop treatment recommendations by suggesting appropriate fertilizer dosages.
